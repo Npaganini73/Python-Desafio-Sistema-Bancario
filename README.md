@@ -93,5 +93,5 @@ Este projeto foi desenvolvido com fins didáticos, ideal para quem está aprende
 
 ## ✍️ Autor
 
-Desenvolvido por **\[Júlio César]**.
+Desenvolvido por **Júlio César**.
 
